@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atmanad
 - 👀 I’m interested in Web Dev stuffs
 - 🌱 I’m currently learning Angular
-- 📫 Reach me @https://www.linkedin.com/in/atmanad/
+- 📫 Reach me @[Atmandas.co](https://atmandas.co)
 
 <!---
 atmanad/atmanad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
